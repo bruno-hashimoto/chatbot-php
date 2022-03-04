@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect("localhost", "root", "root", "bot") or die("Database Error"); ?>
