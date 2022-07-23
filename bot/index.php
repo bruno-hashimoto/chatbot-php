@@ -22,13 +22,9 @@
         <div class="form">
             <div class="bot-inbox inbox">
 
-                <div class="icon">
-                    <img src="./brand-orange-dark-background.png" class="img-fluid" alt="">
-                </div>
-
                 <div class="msg-header">
                     <p>
-                        Bem vindo ao clear helper, comandos disponíveis abaixo:
+                        Bem vindo ao helper, comandos disponíveis abaixo:
 
                         <br>
                         <br>
